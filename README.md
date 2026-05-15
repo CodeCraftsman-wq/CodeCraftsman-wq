@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm B.Tech Computer Science student with a passion for bui
 **Core Skills:** Object-Oriented Programming, API Integration, Database Design (ACID)
 
 ## 💡 Highlighted Projects
-* **Credit Card Fraud Detection:** An intelligent web application built with **Next.js** and **TypeScript**, integrating **Gemini AI** to analyze and flag potentially fraudulent transactions.
-* **Decentralized Chat App:** A secure, peer-to-peer messaging platform.
-* **Full-Stack Mobile Apps:** End-to-end mobile solutions leveraging a **Flutter** frontend connected to a robust **Java Spring Boot** backend.
+**Credit Card Fraud Detection:** An intelligent web application built with **Next.js** and **TypeScript**, integrating **Gemini AI** to analyze and flag potentially fraudulent transactions.
+**Decentralized Chat App:** A secure, peer-to-peer messaging platform.
+**Notes Workspace Application:** A feature-rich notes app with offline connectivity, enabling users to create, edit, and manage notes seamlessly even without an internet connection.
 
 ## 📫 Let's Connect
 * 💼 [LinkedIn](https://linkedin.com/in/your-profile-link)
